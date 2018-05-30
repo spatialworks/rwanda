@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</gmd:hierarchyLevelName>
+<gmd:contact gco:nilReason="missing"/>
+<gmd:dateStamp gco:nilReason="missing"/>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation gco:nilReason="missing"/>
+<gmd:abstract>
+<gco:CharacterString>Sector boundary data contains Sector boundaries for Rwanda since 2006. &#13;
+The data was created based on administrative boundaries created by the 2002 Population and Housing Census in 2006 and updated by the 2012 Census. The census mapping started in 2011 and ended in 2012, where a team of 80 field &#13;
+staff collected census and administrative boundaries down to the lowest administrative level which is &amp;quot;Umudugudu&amp;quot; (Village). Boundaries were adjusted in the GIS lab using the 2008-2009 aerial photographs (Orthophoto) taken by the Rwanda Natural Resource Authority (RNRA). &#13;
+Sector is one of administrative entities in Rwandan administration, they are under District authority. The total number of sectors is four hundred and sixteen (416). The data contains the following attributes: Prov_ID contains one digit as unique identifier for each Province, Province contains Province names in English, Dist_ID contains two digits as unique identifier for each District, the first digit for the Province and the last one is for the District. District contains the district names. Sect_IDc contains a four digit number as unique identifier for each Sector, the first digit for the Province, the second one is for the District and the two last are for the Sector. This Unique ID can be used to link the data to other thematic tables. The attribute Sector contains the Sector names.&#13;
+The data format is in decimal degrees using the World Geodetic System (WGS) 1984.</gco:CharacterString>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>Sector boundary data contains Sector boundaries for Rwanda since 2006.</gco:CharacterString>
+</gmd:purpose>
+<gmd:credit>
+<gco:CharacterString>Sector boundary data have been produced by NISR in 2006.</gco:CharacterString>
+</gmd:credit>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Sector Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundary</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Boundaries</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:resourceConstraints>
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>Public access and no constraints</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:language gco:nilReason="missing"/>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+</gmd:MD_Metadata>

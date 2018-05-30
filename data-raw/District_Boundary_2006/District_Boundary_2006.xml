@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</gmd:hierarchyLevelName>
+<gmd:contact gco:nilReason="missing"/>
+<gmd:dateStamp gco:nilReason="missing"/>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation gco:nilReason="missing"/>
+<gmd:abstract>
+<gco:CharacterString>District boundary data contains District boundaries for Rwanda since 2006. The data was created in 2006 and updated by the 2012 Census mapping. The census mapping started in 2011 and ended in 2012, where a team of 80 field staff collected census and administrative boundaries up to the lowest administrative level which is &amp;quot;Umudugudu&amp;quot; (Village level). Boundaries were adjusted in the GIS Laboratory using the 2008-2009 Orthophotos taken by the Rwanda Natural Resource Authority. Rwanda has thirty Districts located inside four Provinces and Kigali City. Its geographic distribution differs among these five Provinces: Kigali City has three Districts, Eastern Province has seven Districts, Northern Province has five Districts, Southern Province has eight Districts and Western Province has seven Districts.The data contains the following attributes: Province contains Province names, Prov_ID contains one digit as an unique identifier for each Province, District contains District names, Dist_ID contains two digits as unique identifier for each District, the first digit is for the Province and the two last one for the District.The data format is in decimal degrees using the World Geodetic System (WGS) 1984.</gco:CharacterString>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>District boundary data contains District boundaries for Rwanda since 2006. The data was created in 2006 and updated by the 2012 Census mapping. Rwanda has twenty seven Districts located inside four Provinces and three within Kigali City.</gco:CharacterString>
+</gmd:purpose>
+<gmd:credit>
+<gco:CharacterString>District boundary data have been produced by NISR in 2006.</gco:CharacterString>
+</gmd:credit>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_ID Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_Name Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Dist_ID District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District District Name</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_ID Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_Name Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Dist_ID District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District District Name</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_ID Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_Name Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Dist_ID District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District District Name</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_ID Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_Name Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Dist_ID District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District District Name</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_ID Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_Name Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Dist_ID District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District District Name</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_ID Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_Name Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Dist_ID District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District District Name</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Administrative Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Rwanda</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>NISR</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_ID Province ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Prov_Name Province Name</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>Dist_ID District ID</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>District District Name</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:resourceConstraints>
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>Public access and no constraints</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:language gco:nilReason="missing"/>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+</gmd:MD_Metadata>
