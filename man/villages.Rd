@@ -20,7 +20,8 @@
 \item{\code{FID}}{FID}
 }}
 \source{
-\link{National Instituate of Statistics of Rwanda}{http://geodata-nisr-rwanda.opendata.arcgis.com}
+National Instituate of Statistics of Rwanda
+    \url{http://geodata-nisr-rwanda.opendata.arcgis.com}
 }
 \usage{
 villages
