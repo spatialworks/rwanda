@@ -1,5 +1,5 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-rwanda: Datasets for Use in Designing Surveys in Somlia <img src="man/figures/rwanda.png" width="200px" align="right" />
+rwanda: Datasets for Use in Designing Surveys in Rwanda <img src="man/figures/rwanda.png" width="200px" align="right" />
 ========================================================================================================================
 
 Designing surveys require relevant datasets to be used as basis for
