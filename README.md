@@ -2,6 +2,11 @@
 rwanda: Datasets for Use in Designing Surveys in Rwanda <img src="man/figures/rwanda.png" width="200px" align="right" />
 ========================================================================================================================
 
+[![Travis build
+status](https://travis-ci.org/validmeasures/rwanda.svg?branch=master)](https://travis-ci.org/validmeasures/rwanda)
+[![Build
+status](https://ci.appveyor.com/api/projects/status/2wchiocafhpiwvyu?svg=true)](https://ci.appveyor.com/project/ernestguevarra/rwanda)
+
 Designing surveys require relevant datasets to be used as basis for
 sample size calculations, sampling design, survey planning/logistics and
 survey implementation. These include datasets on population, lists of
